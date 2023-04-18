@@ -1,0 +1,36 @@
+.titulo{
+    color : white;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.img{
+    height:200px;
+    border: 5px solid #555;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+p{
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+    margin: 20px;
+    font-family: 'Roboto',sans-serif;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #4F7942;
+    color: white;
+    text-align: center;
+  }
+
